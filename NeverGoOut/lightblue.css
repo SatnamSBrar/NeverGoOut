@@ -1,0 +1,15 @@
+﻿body {
+    background-color:lightblue;
+    font-family:Arial;
+}
+#wrap h1 {
+    font-family:'Times New Roman';
+}
+#wrap ul {
+    list-style-type:none;
+    text-align:center;
+    padding:25px;
+}
+#wrap ul li::first-letter {
+    font-size:25px;
+}
