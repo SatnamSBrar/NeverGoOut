@@ -107,7 +107,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="manysonnets.html" />
-    <Content Include="sonnet18.html" />
+    <Content Include="sonnet18version2.html" />
+    <Content Include="sonnet18version3.html" />
+    <Content Include="sonnet18version1.html" />
+    <Content Include="darkblue.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

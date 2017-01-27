@@ -1,0 +1,13 @@
+﻿body {
+    background-color:darkblue;
+    font-family:Arial;
+}
+#wrap ul {
+    list-style-position:inside;
+    align-content:center;
+    text-align:center;
+}
+.copyright {
+    font-size:smaller;
+    font-style:italic;
+}
