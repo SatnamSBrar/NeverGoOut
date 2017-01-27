@@ -1,0 +1,28 @@
+﻿body {
+    background-color:burlywood;
+    text-align:center;
+    font-family:Arial;
+}
+#wrap {
+    border:dashed black;
+    border-width:3px;
+}
+#wrap h1 {
+    font-style:italic;
+    font-size:larger;
+    border:dashed black;
+    border-width:3px;
+}
+#wrap ul {
+    list-style-type:none;
+    text-align:center;
+    padding:25px;
+    font-style:italic;
+}
+#wrap ul li::first-letter {
+    font-size:25px;
+}
+.copyright {
+    font-size:smaller;
+}
+/*not quite correct*/
